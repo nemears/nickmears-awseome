@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.xinitrc
+!.Xdefaults
+!.Xauthority
+!*/.config/awesome/rc.lua
+!*/.config/awesome/theme/*
